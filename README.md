@@ -1,0 +1,2 @@
+# localStorage
+localStorage和cookie在chrome浏览器上的测试
